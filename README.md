@@ -1,5 +1,5 @@
 # Bowling Score
-This Java application calculates a bowling score based on user input.
+This Java project calculates a bowling score and displays some statistics based on user input.
 
 View live here:
 https://replit.com/@imbrandonj/BowlingScore
